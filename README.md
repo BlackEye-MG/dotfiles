@@ -1,3 +1,4 @@
 # dotfiles
-.bashrc
-.bash_aliases
+.bashrc  
+.bash_aliases  
+fcitx5_config  
