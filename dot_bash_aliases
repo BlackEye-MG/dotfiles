@@ -1,0 +1,18 @@
+#Common aliases
+alias c='clear'
+alias h='history'
+alias hg='history | grep $1'
+alias ..='cd ..'
+
+#Network-related aliases
+alias ports='nmap localhost'
+
+#Application-specific aliases
+
+#Nordvpn
+alias nordc='nordvpn c Taiwan'
+alias nordd='nordvpn d'
+
+#Fastfetch
+alias ff='fastfetch'
+

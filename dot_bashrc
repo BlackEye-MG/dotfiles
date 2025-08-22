@@ -115,3 +115,11 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+#AWS_KEY
+
+if [ -f ~/.aws/credentials.env ]; then
+    . ~/.aws/credentials.env
+fi
+
+
